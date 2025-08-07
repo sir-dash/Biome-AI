@@ -9,7 +9,7 @@
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vercel/analytics": "^1.0.1",
-    "react-scripts": "5.0.1" // Assurez-vous que cette ligne est ici, avec la version correcte
+    "react-scripts": "5.0.1" 
   },
   "scripts": {
     "start": "react-scripts start",
